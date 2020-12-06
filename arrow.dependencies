@@ -1,6 +1,18 @@
 [
  {
-   "repository": "android_kernel_xiaomi_onclite",
+   "repository": "johnmart19/Cartel_kernel_onclite",
    "target_path": "kernel/xiaomi/onclite"
+ },
+ {
+   "repository": "johnmart19/android_vendor_xiaomi_onclite",
+   "target_path": "vendor/xiaomi"
+ },
+ {
+   "repository": "kdrag0n/proton-clang",
+   "target_path": "prebuilts/clang/host/linux-x86/clang-12"
+ },
+ {
+   "repository": "kubersharma001/android_packages_apps_GCamGOPrebuilt",
+   "target_path": "packages/apps/GCamGOPrebuilt"
  }
 ]

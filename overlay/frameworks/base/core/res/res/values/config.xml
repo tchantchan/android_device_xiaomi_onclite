@@ -398,6 +398,9 @@
     <dimen name="status_bar_height_portrait">55.0px</dimen>
     <dimen name="status_bar_height_landscape">24.0dp</dimen>
 
+    <!-- Shows the required view for in-display fingerprint -->
+    <bool name="config_supportsInDisplayFingerprint">false</bool>
+
     <!-- Whether a software navigation bar should be shown. NOTE: in the future this may be
          autodetected from the Configuration. -->
      <bool name="config_showNavigationBar">true</bool>
